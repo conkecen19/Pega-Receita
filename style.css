@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+    color: black;
+
+    .botao-almoco{
+        width: 20%;
+        padding: 5%;
+        margin: 0 80%;
+        cursor: pointer;
+    }
+    .botao-sobremesas{
+        width: 20%;
+        padding: 5%;
+        margin: 0 80%;
+        cursor: pointer;
+    }
+    .botao-salgados{
+        width: 20%;
+        padding: 5%;
+        margin: 0 80%; 
+        cursor: pointer;
+    }
+    .logo-cabecalho{
+        margin: 0 40%;
+        width: 20%;
+        cursor: pointer;
+    }
+}
