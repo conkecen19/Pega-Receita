@@ -5,16 +5,19 @@ body{
     .botao-almoco{
         width: 20%;
         padding: 5%;
+        margin:0 80%;
         cursor: pointer;
     }
     .botao-sobremesas{
         width: 20%;
         padding: 5%;
+        margin:0 80%;
         cursor: pointer;
     }
     .botao-salgados{
         width: 20%;
         padding: 5%;
+        margin:0 80%;
         cursor: pointer;
     }
     .logo-cabecalho{
