@@ -1,28 +1,23 @@
 body{
     background-color: white;
     color: black;
-
-    .botao-pratos{
-        width: 20%;
-        padding: 5%;
-        margin:-10% 78%;
-        cursor: pointer;
-    }
-    .botao-sobremesas{
-        width: 20%;
-        padding: 5%;
-        margin:-10% 78%;
-        cursor: pointer;
-    }
-    .botao-salgados{
-        width: 20%;
-        padding: 5%;
-        margin:-10% 78%;
-        cursor: pointer;
+    
+    .menu{
+        position: absolute;
+        flex-direction: column;
+        display: flex;
+        top: 50px;
+        right: 405px;
+        margin: 5px 0;
+        width: 5%;
     }
     .logo-cabecalho{
         margin: 0 40%;
         width: 20%;
         cursor: pointer;
+    }
+    .botao-pratos{
+        width: 5%;
+        height: auto;
     }
 }
